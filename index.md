@@ -4,12 +4,12 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Integrating Openstreetmap Data and Sentinel-2 Imagery for Classifying and Monitoring Informal Settlements](/pdf/INTEGRATING OPENSTREETMAP DATA AND SENTINEL-2 IMAGERY FOR CLASSIFYING AND MONITORING INFORMAL SETTLEMENTS.pdf)
+<img src="images/Informality.PNG"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Lisbon_Tourism.PNG"/>
 
 ---
 [Project 3 Title](http://example.com/)
