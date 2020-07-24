@@ -8,7 +8,7 @@
 <img src="images/Informality.PNG"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title](/pdf/Lisbon Tourism Web App.pdf)
 <img src="images/Lisbon_Tourism.PNG"/>
 
 ---
