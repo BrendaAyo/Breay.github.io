@@ -12,30 +12,15 @@
 
 ---
 
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Correlation Between an Eagle Owl’s Flight Height and Mean Monthly Temperature - Python in GIS](/pdf/Correlation Between Eagle Owl’s Flight Height and Mean.pdf)
+<img src="images/Eagle Owl.jpg"/>
 
 ---
 
-- [Project 1 Title](http://example.com/)
-
+- [Synthetic Aperture Radar (SAR)- Differential Interferometry and DEM Production Using Sentinel-1](/pdf/SAR Class Project_Brenda Ayo.pdf)
+<img src="images/SAR.PNG"/>
 ---
 
-- [Project 2 Title](http://example.com/)
-
+- [Using GPS and GIS to Analyze the physical activity of IFGI students](/pdf/Using GPS and GIS to Analyze the physical activity of IFGI students.pdf)
+<img src="images/Tracking.png"/>
 ---
-
-- [Project 3 Title](http://example.com/)
-
-
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
